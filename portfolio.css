@@ -1,0 +1,17 @@
+body {
+  background-color: #baa6d0 !important;
+}
+.top {
+  background-color: #baa6d0;
+}
+.disabled {
+  color: white !important;
+}
+.active {
+  color: white !important;
+  opacity: 0.6;
+}
+
+.container {
+  background-color: white;
+}
