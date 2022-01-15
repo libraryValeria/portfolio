@@ -15,3 +15,7 @@ body {
 .container {
   background-color: white;
 }
+
+.foot {
+    background-color: #baa6d0 !important;
+}
