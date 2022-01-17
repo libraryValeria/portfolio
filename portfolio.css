@@ -12,10 +12,12 @@ body {
   opacity: 0.6;
 }
 
-.container {
+.container-fluid {
   background-color: white;
 }
-
+.paint{
+  background-color: #baa6d0;
+}
 .foot {
     background-color: #baa6d0 !important;
 }
