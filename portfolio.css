@@ -13,7 +13,7 @@ body {
 }
 .container-fluid {
   text-align: center;
-  color:#372A46;
+  color: #372a46;
 }
 
 .paint {
@@ -25,6 +25,9 @@ h2 {
   margin-top: 1% !important;
   text-align: end;
   opacity: 0.6;
+}
+h4 {
+  font-weight: bold !important;
 }
 .foot {
   background-color: #baa6d0 !important;
