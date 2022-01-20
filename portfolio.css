@@ -12,15 +12,14 @@ body {
   opacity: 0.6;
 }
 .container-fluid {
-  background-color: white;
+  text-align: center;
+  color:#372A46;
 }
 
 .paint {
   background-color: #baa6d0;
 }
-img{
-  align-items: flex-end !important;
-}
+
 h2 {
   color: white !important;
   margin-top: 1% !important;
