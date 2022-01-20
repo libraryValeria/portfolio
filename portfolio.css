@@ -18,6 +18,9 @@ body {
 .paint {
   background-color: #baa6d0;
 }
+img{
+  align-items: flex-end !important;
+}
 h2 {
   color: white !important;
   margin-top: 1% !important;
